@@ -1,0 +1,10 @@
+C:\Users\Bebok\Desktop\C\C#\FlipperRewrite\FlipperRewrite\bin\Debug\FlipperRewrite.exe.config
+C:\Users\Bebok\Desktop\C\C#\FlipperRewrite\FlipperRewrite\obj\Debug\FlipperRewrite.exe
+C:\Users\Bebok\Desktop\C\C#\FlipperRewrite\FlipperRewrite\obj\Debug\FlipperRewrite.pdb
+C:\Users\Bebok\Desktop\C\C#\FlipperRewrite\FlipperRewrite\bin\Debug\FlipperRewrite.exe
+C:\Users\Bebok\Desktop\C\C#\FlipperRewrite\FlipperRewrite\bin\Debug\FlipperRewrite.pdb
+C:\Users\Bebok\Desktop\C\C#\FlipperRewrite\FlipperRewrite\obj\Debug\Flipper.csprojResolveAssemblyReference.cache
+C:\Users\Bebok\Desktop\C\C#\FlipperRewrite\FlipperRewrite\obj\Debug\FlipperRewrite.ConfigMenu.resources
+C:\Users\Bebok\Desktop\C\C#\FlipperRewrite\FlipperRewrite\obj\Debug\FlipperRewrite.flipper.resources
+C:\Users\Bebok\Desktop\C\C#\FlipperRewrite\FlipperRewrite\obj\Debug\FlipperRewrite.Properties.Resources.resources
+C:\Users\Bebok\Desktop\C\C#\FlipperRewrite\FlipperRewrite\obj\Debug\Flipper.csproj.GenerateResource.Cache
